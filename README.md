@@ -1,5 +1,5 @@
-### Hello there 👋, Caio Lima here!
-
+<h1 align="center">Hello there 👋, Caio Lima here!</h1>
+<h3 align="center">I'm a Web Developer and Web Designer</h3>
 <!--
 **CaioLima96/CaioLima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
