@@ -1,5 +1,8 @@
 <h1 align="center">Hello there 👋, Caio Lima here!</h1>
-<h3 align="center">I'm a Web Developer and Web Designer</h3>
+
+I am a Web Developer Born and raised in Rio de Janeiro, Brazil.
+I like to spend my free time playing video games, listening to music, studying and drawing.
+Animals are something that I like too. Whenever I can, I help them. Whether with food or affection.
 <!--
 **CaioLima96/CaioLima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
