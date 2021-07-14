@@ -1,8 +1,10 @@
 <h1 align="center">Hello there 👋, Caio Lima here!</h1>
 
-I am a Web Developer Born and raised in Rio de Janeiro, Brazil.
-I like to spend my free time playing video games, listening to music, studying and drawing.
-Animals are something that I like too. Whenever I can, I help them. Whether with food or affection.
+<p align="center">I am a Web Developer Born and raised in Rio de Janeiro, Brazil.<br>
+I like to spend my free time playing video games, listening to music, studying and drawing.<br>
+Animals are something that I like too. Whenever I can, I help them. Whether with food or affection.</p>
+
+
 
 <a href="https://www.linkedin.com/in/caiovieiralima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.instagram.com/caiolimaart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a src="https://www.deviantart.com/caiolimaart"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=DeviantArt&logoColor=white"></a>
 
