@@ -3,6 +3,9 @@
 I am a Web Developer Born and raised in Rio de Janeiro, Brazil.
 I like to spend my free time playing video games, listening to music, studying and drawing.
 Animals are something that I like too. Whenever I can, I help them. Whether with food or affection.
+
+<a href="https://www.linkedin.com/in/caiovieiralima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.instagram.com/caiolimaart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/caiolimaart"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ></a>
+
 <!--
 **CaioLima96/CaioLima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
