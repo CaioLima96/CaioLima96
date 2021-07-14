@@ -6,7 +6,9 @@ Animals are something that I like too. Whenever I can, I help them. Whether with
 
 
 
-<p align="center"><a href="https://www.linkedin.com/in/caiovieiralima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/caiolimaart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a src="https://www.deviantart.com/caiolimaart"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=DeviantArt&logoColor=white"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/caiovieiralima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a>     <a href="https://www.instagram.com/caiolimaart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"></a> 
+  <a src="https://www.deviantart.com/caiolimaart"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=DeviantArt&logoColor=white" width="105"></a></p>
 
 <!--
 **CaioLima96/CaioLima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
